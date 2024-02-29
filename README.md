@@ -1,1 +1,1 @@
-# 10-other-practice-questions-of-typescript
+# 10 t0 20--practice-questions-of-typescript
